@@ -32,12 +32,12 @@ Before you use these configs, make sure you have the following installed:
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/yourusername/hyprland-dotfiles.git
-   cd hyprland-dotfiles
+   git clone https://github.com/Tekila11/hypr.git
+   cd hypr
 2. Backup your existing configurations.
 3. Symlink the configs or copy them to the appropriate locations:
    ```bash
-     ln -s $PWD/hyprland ~/.config/hyprland
+     ln -s $PWD/ ~/.config/hypr
    ````
 # 📜 License
 Feel free to use and modify these configs. Contributions and feedback are welcome!
