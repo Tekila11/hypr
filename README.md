@@ -17,6 +17,9 @@ Before you use these configs, make sure you have the following installed:
 - **Wayland**: The display protocol powering Hyprland.
 - **Dependencies**: Check the configs for tools like `hyprpaper`, `wlr-randr`, `hyprlock`, etc.
 
+ **`hyprland.conf`**,  **`hyprpaper.conf`**,  **`hyprlock.conf`** and **`hyprshade.toml`** are to be placed in `~/.config/hypr/`
+
+
 ## 📂 What's Inside
 
 - **`hyprland/`**: Configuration for Hyprland itself.  
