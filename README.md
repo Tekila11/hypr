@@ -22,7 +22,8 @@ Before you use these configs, make sure you have the following installed:
 - **`hyprland/`**: Configuration for Hyprland itself.  
 - **`waybar/`**: not set yet I'll add waybar config later.  
 - **`hyprock/`**: Handy scripts for screen lock.  
-- **`hyproaoer/`**: for the wallpaper.  
+- **`hyprpaper/`**: for the wallpaper.
+- **`hyprshade/`**: configs for scree temprerature as blue filter or night light.  
 
 ## 🚀 Getting Started
 
