@@ -20,7 +20,7 @@ Before you use these configs, make sure you have the following installed:
 ## 📂 What's Inside
 
 - **`hyprland/`**: Configuration for Hyprland itself.  
-- **`waybar/`**: not set yet.  
+- **`waybar/`**: not set yet I'll add waybar config later.  
 - **`hyprock/`**: Handy scripts for screen lock.  
 - **`hyproaoer/`**: for the wallpaper.  
 
@@ -32,14 +32,15 @@ Before you use these configs, make sure you have the following installed:
    cd hyprland-dotfiles
 2. Backup your existing configurations.
 3. Symlink the configs or copy them to the appropriate locations:
-```bash
-  ln -s $PWD/hyprland ~/.config/hyprland
-```
+   ```bash
+     ln -s $PWD/hyprland ~/.config/hyprland
+   ````
 # 📜 License
 Feel free to use and modify these configs. Contributions and feedback are welcome!
 
 # 📬 Contact
-Have questions or suggestions? Reach out via issues or find me on GitHub.
+Have questions or suggestions? Reach out via issues or find me on [GitHub](https://github.com/Tekila11)
+.
 
 
 Enjoy the Hyprland journey! 🚀
