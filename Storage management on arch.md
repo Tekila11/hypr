@@ -1,4 +1,4 @@
-I'll help you analyze and free up space on your root (/) partition. Here's how you can investigate and clean up space:
+Here's how you can investigate and clean up space:
 
 1. First, let's check what's taking up space. Run this command to see the largest directories in /:
 ```bash
@@ -38,10 +38,9 @@ sudo rm -rf /var/tmp/*
 sudo pacman -S bleachbit
 ```
 
-Would you like me to explain any of these methods in more detail? Also, I can help you analyze the output if you run these commands and share the results.
 
 Alternative Solutions:
 1. If cleaning doesn't provide enough space, you could resize your partitions using tools like `gparted` from a live USB
 2. You might consider moving some directories to your /home partition and creating symlinks
 
-Let me know which approach you'd like to explore further!
+
